@@ -18,7 +18,7 @@ I build production-grade data pipelines that make AI projects possible. Currentl
 | Data | Delta Lake, Spark, ETL/ELT, SCD Type 2 |
 | Languages | Python, SQL, Scala |
 | ML | Scikit-learn, Feature Engineering, ML Pipelines |
-| Tools | Git, Docker, FastAPI, Azure Data Factory |
+| Tools | Git, FastAPI, Azure Data Factory |
 
 ## 📫 Open To
 - Remote Contract Roles (USD)
@@ -26,8 +26,6 @@ I build production-grade data pipelines that make AI projects possible. Currentl
 - Data Engineering | MLOps | AI Data Infrastructure
 
 ## 📧 Contact
-- Email: [your-email]
-- LinkedIn: [your-linkedin-url]
+- Email: bharathwajks26@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bharathwajks/
 
----
-*Last updated: March 2026*
