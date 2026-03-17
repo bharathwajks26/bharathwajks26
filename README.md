@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharathwaj K S
 
-<!--
-**bharathwajks26/bharathwajks26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 What I Do
+I build production-grade data pipelines that make AI projects possible. Currently at **Accenture** as a Data Engineer, specializing in Azure-native data architectures.
 
-Here are some ideas to get you started:
+## 🏆 Certifications
+- **Databricks Certified Data Engineer Associate**
+- **Microsoft Fabric Analytics Engineer (DP-700)**
+- **OCI GenAI Certified**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Key Achievement
+> Architected multi-source ETL pipeline on Azure Databricks that **eliminated 95% of manual processing hours** (~40 hrs/week saved) for 10,000+ employee records.
+
+## 🛠️ Tech Stack
+| Category | Technologies |
+|----------|--------------|
+| Cloud | Azure, Databricks, Microsoft Fabric, OCI |
+| Data | Delta Lake, Spark, ETL/ELT, SCD Type 2 |
+| Languages | Python, SQL, Scala |
+| ML | Scikit-learn, Feature Engineering, ML Pipelines |
+| Tools | Git, Docker, FastAPI, Azure Data Factory |
+
+## 📫 Open To
+- Remote Contract Roles (USD)
+- Contract-to-Hire Positions
+- Data Engineering | MLOps | AI Data Infrastructure
+
+## 📧 Contact
+- Email: [your-email]
+- LinkedIn: [your-linkedin-url]
+
+---
+*Last updated: March 2026*
